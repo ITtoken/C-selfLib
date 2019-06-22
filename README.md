@@ -3,7 +3,7 @@
 > 2. base on c++ v-11.
 
 ## 1. Thread
-Thread lib is a decoration fro the linux
+Thread lib is a decoration for the linux
 pthread api, just for using convenience.
 
 Usage simple example:
